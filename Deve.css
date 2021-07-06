@@ -18,8 +18,8 @@ nav li{
 }
 #banniere_image{
     background: url("Images/backgroung_image.jpg") no-repeat;
-    height: 500px;
-    width: auto;
+    height: 100%;
+    width: 100%;
     position: relative;
 }
 .texte_banniere{
