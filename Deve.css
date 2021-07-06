@@ -18,13 +18,6 @@ nav li{
 }
 #banniere_image{
     background: url("Images/backgroung_image.jpg") no-repeat;
-    position: absolute;
-    top: auto;
-    left: auto;
-    right: auto;
-    bottom: auto;
-
-
 }
 .texte_banniere{
     display: flex;
