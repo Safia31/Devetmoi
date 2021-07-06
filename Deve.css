@@ -2,6 +2,8 @@
     font-family: "Roboto";
     src: url("Roboto/Roboto-Regular.ttf");
 }
+/* Header */
+
 .logo{
     display: flex;
     flex-direction: row;
@@ -13,4 +15,9 @@ nav ul{
 }
 nav li{
     margin-right: 20px;
+}
+#banniere_image{
+    margin-top: 20px;
+    height: 200px;
+    
 }
