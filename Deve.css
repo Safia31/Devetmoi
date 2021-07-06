@@ -17,9 +17,8 @@ nav li{
     margin-right: 20px;
 }
 #banniere_image{
-    margin-top: 20px;
-    height: 200px;
-    border-radius: 15px;
+    margin-top: 15px;
+    height: 400px;
     background: url("Images/backgroung_image.jpg") no-repeat;
     position: relative;
 }
