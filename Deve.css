@@ -4,6 +4,8 @@
     src: url("Roboto/Roboto-Regular.ttf");
 }
 */
-li{
-    font-family: "Roboto";
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
