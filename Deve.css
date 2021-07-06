@@ -1,11 +1,10 @@
-/* Police
 @font-face{
     font-family: "Roboto";
     src: url("Roboto/Roboto-Regular.ttf");
 }
-*/
 .logo{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: flex-end;
 }
