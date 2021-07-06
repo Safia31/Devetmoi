@@ -20,3 +20,8 @@ nav li{
     background: url("Images/backgroung_image.jpg") no-repeat;
     position: relative;
 }
+.texte_banniere{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
