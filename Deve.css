@@ -26,9 +26,3 @@ nav li{
 .paragraphe{
     text-align: center;
 }
-.contenu{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-}
